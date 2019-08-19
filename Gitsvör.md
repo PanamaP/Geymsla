@@ -24,3 +24,6 @@ Git log - Sýnir allar breytur sem hafa verið gerðar og hvenær þær voru ger
 
 git checkout - tékkar hvort þitt version sé sama og upprunnulega
 
+4. Hvað er útgáfustýring(Version control)?
+
+ Version control skráir breytingu skráa svo hægt sé að afturkalla hana aftur seinna
