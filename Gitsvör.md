@@ -17,3 +17,10 @@ git clone - afritar geymslu (repository)
 git status - sýnir statusinn á git verkefninu
 
 git diff - ber saman mismunandi skjöl
+
+3. Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
+
+Git log - Sýnir allar breytur sem hafa verið gerðar og hvenær þær voru gerðar
+
+git checkout - tékkar hvort þitt version sé sama og upprunnulega
+
