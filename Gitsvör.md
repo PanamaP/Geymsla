@@ -31,3 +31,4 @@ git checkout - tékkar hvort þitt version sé sama og upprunnulega
  5. Hverjir eru helstu kostir við að nota GIT?
  
 Það er hægt að vinna mörg saman, fara framm og til baka ef mistök eiga sér stað og er mjög skilvirkt.
+Á nýju greininni minni get ég sagt mína skoðun á Git Umsjónarkerfinu, Git er frábært umsjónarkerfi sem er frekar auðvelt að læra á.
