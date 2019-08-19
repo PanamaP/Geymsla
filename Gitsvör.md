@@ -27,3 +27,7 @@ git checkout - tékkar hvort þitt version sé sama og upprunnulega
 4. Hvað er útgáfustýring(Version control)?
 
  Version control skráir breytingu skráa svo hægt sé að afturkalla hana aftur seinna
+
+ 5. Hverjir eru helstu kostir við að nota GIT?
+ 
+Það er hægt að vinna mörg saman, fara framm og til baka ef mistök eiga sér stað og er mjög skilvirkt.
