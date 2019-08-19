@@ -1,0 +1,16 @@
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    }
+.box {
+    border:solid 1px black;
+    padding: 20px;
+    }
+.main{
+    grid-area: sr;
+    color:black;
+    background-image: linear-gradient(white, orange);
+    padding: 1em;
+    height: 400px;
+    text-justify: center;
+}
