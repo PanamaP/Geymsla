@@ -35,3 +35,7 @@ git checkout - tékkar hvort þitt version sé sama og upprunnulega
 6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
 
 Þegar þú hefur lokið við breytingar.
+
+7. Hvað er átt við með "Working Directory"? og "Staging Area" í GIT?
+
+Working directory er skráin sem þú ert staddur í að vinna sem fer svo yfir í staging Area þegar þú skrifar 'git add .' þá er skráinn í 'staging area' svo skrifaru "git commit -m 'Útskýring fyrir uppfærlsu'" og þá er skráin kominn í repo.
